@@ -1,6 +1,6 @@
 fd# Support Vector Machine (SVM)
 
-# Importing the libraries
+# Importing the correct libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
